@@ -1,5 +1,5 @@
 # watcher
-It's CircleCI's fork of [watcher](github.com/radovskyb/watcher) with my small changes to go.mod file 
+It's CircleCI's fork of [watcher](https://github.com/radovskyb/watcher) with my small changes to go.mod file 
 
 [![Build Status](https://travis-ci.org/radovskyb/watcher.svg?branch=master)](https://travis-ci.org/radovskyb/watcher)
 
