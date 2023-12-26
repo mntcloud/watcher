@@ -1,3 +1,3 @@
-module github.com/radovskyb/watcher
+module github.com/mntcloud/watcher
 
 go 1.16
